@@ -39,6 +39,7 @@ Technologies Used:
   Matplotlib (visualization)
 
   Project Workflow
+  
 1️⃣ Data Collection
 
 Fetch NIFTY 50 historical data from Yahoo Finance.
